@@ -1,3 +1,5 @@
+//Program to find the Diagonal, Area, and Perimeter of a Square when given the side.
+
 #include <stdio.h>
 #include <math.h>
 

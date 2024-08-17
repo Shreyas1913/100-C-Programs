@@ -1,3 +1,5 @@
+//Program to find out wether a number is 3 digit or not.
+
 #include <stdio.h>
 
 int main()

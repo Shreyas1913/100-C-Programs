@@ -1,3 +1,5 @@
+//Program to find out the diameter, area, and perimeter of a circle when given the radius.
+
 #include <stdio.h>
 
 int main()
