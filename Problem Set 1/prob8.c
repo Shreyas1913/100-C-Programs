@@ -1,3 +1,5 @@
+//Program to check wether a number ends with 5 or not.
+
 #include <stdio.h>
 
 int main()

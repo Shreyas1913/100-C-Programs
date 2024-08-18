@@ -1,3 +1,5 @@
+//Program to find out wether three given lengths of a side form a triangle.
+
 #include <stdio.h>
 
 int main()

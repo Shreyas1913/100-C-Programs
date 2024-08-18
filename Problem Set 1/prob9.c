@@ -1,3 +1,5 @@
+//Program to find the quotient and remainder when 2 numbers are divided.
+
 #include <stdio.h>
 
 int main()
